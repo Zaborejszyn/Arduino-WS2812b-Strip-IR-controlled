@@ -6,4 +6,4 @@ This code combines the Adafruit NeoPixel library and the IRremote library to cre
 
 ![](images/overview.jpg)
 
-Demo Video: 
+Demo Video: https://youtu.be/3_TFgVYCX9M
